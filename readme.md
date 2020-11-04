@@ -16,6 +16,8 @@ Through univariate exploration, I was able to confirm the methodology describe b
 
 Exploring the bivariate relationships in this dataset, I found that there was a very strong correlation between the intelligence scores of the PISA exam. Students with strengths in Math, Reading, or Science tended to also be strong in both the other categories. Some countries tended to have much more skewed samples when I examined country and sex representation simultaneously, with Mexico having a clearly larger female sampling. This, coupled with Mexico's much higher rate of testing, likely causes the higher percentage of female representation overall. Ordinarily, this discrepancy would be negated by the weighting of student responses by the country's total population, as suggested by the PISA Data Analysis Manual. Since I am avoiding that approach to stay within the bounds of this course, it could be prudent to look at the sex representations relative to the sample size.
 
+For multivariate exploration, I investigated whether the global bivariate trends were obvious across OECD countries. This did not seem to be the case, and I also did not find any clear national trends based on sex. I looked at a snapshot of my home country, the USA, to confirm that the global trends were present on the national level as well.
+
 ## Key Insights for Presentation
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
