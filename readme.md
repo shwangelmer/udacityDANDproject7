@@ -12,7 +12,7 @@ The dataset was accessed via this link: <https://www.google.com/url?q=https://s3
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> Through univariate exploration, I was able to confirm the methodology describe by OECD in their [2012 PISA report](http://www.oecd.org/pisa/pisaproducts/PISA-2012-technical-report-final.pdf). All OECD countries (except Iceland, which has special exemption due to its low population) were very close to or exceeded the 5,000 student minimum sample size recommended by the OECD. The two-stage sampling was able to yield almost equal sex sizes (female 50.18%, male 49.82%). Then, the distributions of the socioeconomic index (ESCS) and the averages of the reading, math, and science scores made evident the relativistic nature of the scoring. Those four values are nearly perfect normal distributions.
 
 
 ## Key Insights for Presentation
